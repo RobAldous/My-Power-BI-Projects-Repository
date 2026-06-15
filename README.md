@@ -14,6 +14,8 @@ The project highlights the end-to-end analytics workflow—from data preparation
   - Cleaned and reshaped raw datasets using Power Query
   - Handled missing values, data types, and structure inconsistencies
   - Merged and combined multiple data sources for unified analysis
+  - <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/74d90043-3137-4d40-baac-2008d3c9e44a" />
+
 
 - **Interactive Reporting**
   - Built dynamic reports with **slicers and filters** for user-driven exploration
@@ -72,6 +74,8 @@ A key objective of this project was to communicate insights clearly:
 - Revenue and profit analysis reports
 - Regional sales distribution maps
 - Interactive reports with drill-through and filtering capabilities
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/479a6256-cd48-4517-9c1b-94897266b222" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/898e963a-f682-4aa7-856d-7dddd21b65af" />
 
 ---
 
