@@ -78,6 +78,8 @@ A key objective of this project was to communicate insights clearly:
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/898e963a-f682-4aa7-856d-7dddd21b65af" />
 
 ---
+## My Dashboard
+[Link to my report](https://app.powerbi.com/view?r=eyJrIjoiYzg1YWY4ZmYtNDY2MS00MTRkLWIzM2YtOWI5OTRiZDU3MTc4IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 ## 💡 Reflection
 
