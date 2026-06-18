@@ -23,7 +23,7 @@ The project highlights the end-to-end analytics workflow—from data preparation
   - Developed KPIs such as revenue, profit, and performance metrics
   - Applied time-based calculations for trend analysis
 
-- **Data Visualizations**
+- **Data Visualisations**
   - Designed a range of visuals, including:
     -  Bar Charts (category and performance comparisons)
     -  Line Charts (sales trends over time)
